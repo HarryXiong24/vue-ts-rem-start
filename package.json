@@ -2,7 +2,7 @@
   "name": "vue-ts-rem-start",
   "version": "1.0.0",
   "author": "HarryXiong",
-  "description": "Vue-cli4, Typescrit startup template, use rem adaptation",
+  "description": "Vue-cli4, Typescript startup template, use rem adaptation.",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
